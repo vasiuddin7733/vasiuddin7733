@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
  
  
- ![Mohammed Vasiuddin's github stats](https://github-readme-stats.vercel.app/api?username=vasiuddin7733&count_private=true&show_icons=true&theme=radical)
+ ![Mohammed Vasiuddin's github stats](https://github-readme-stats.vercel.app/api?username=vasiuddin7733&acount_private=true&show_icons=true&theme=radical)
