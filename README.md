@@ -1,24 +1,11 @@
 ### Hi there 👋
 
 <!--
-**vasiuddin7733/vasiuddin7733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**vasiuddin7733/vasiuddin7733** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-# Mohammed Vasiuddin | Developer
+![GitHub Stats](./profile/stats.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasiuddin7733&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasiuddin7733&layout=compact&theme=radical)
+![Top Languages](./profile/top-langs.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vasiuddin7733&theme=radical)
