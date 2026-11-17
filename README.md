@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-### Mohammed Vasiuddin | Developer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasiuddin7733&show_icons=true&theme=tokyonight)
+# Mohammed Vasiuddin | Developer
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasiuddin7733&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasiuddin7733&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vasiuddin7733&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasiuddin7733&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vasiuddin7733&theme=radical)
